@@ -13,8 +13,7 @@ Make sure you have the following installed:
 
 - Python 3.x
 - OpenCV
-- TensorFlow (if using deep learning models)
-- dlib (for face and facial landmark detection)
+- mediapipe
 - numpy
 
 Install the required libraries using:
