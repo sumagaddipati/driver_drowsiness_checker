@@ -19,7 +19,7 @@ Make sure you have the following installed:
 
 Install the required libraries using:
 
-```bash
+
 pip install opencv-python dlib tensorflow numpy
 
 ## How It Works
@@ -31,9 +31,9 @@ Eye Aspect Ratio (EAR): Calculates EAR from facial landmarks to determine if the
 
 Alert System: If EAR falls below a threshold for a sustained time, a visual or audio alert is triggered.
 
-## Contributing
+Contributing
 Feel free to fork the repository, create issues, and submit pull requests. Contributions are welcome!
 
-## License
+License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
