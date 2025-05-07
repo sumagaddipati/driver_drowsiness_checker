@@ -23,7 +23,7 @@ Install the required libraries using:
 pip install opencv-python dlib tensorflow numpy
 
 ## How It Works
-The driver_drowsiness.py script performs the following steps:
+**The driver_drowsiness.py script performs the following steps:**
 
 Face Detection: Uses OpenCV or dlib to detect the face of the driver in real-time.
 
@@ -31,9 +31,9 @@ Eye Aspect Ratio (EAR): Calculates EAR from facial landmarks to determine if the
 
 Alert System: If EAR falls below a threshold for a sustained time, a visual or audio alert is triggered.
 
-Contributing
+## Contributing
 Feel free to fork the repository, create issues, and submit pull requests. Contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
